@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+h1,h2{
+  color: green;
+}
+
+button{
+  padding: 10px;
+  background-color: green;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+}
+#del{
+  background-color: lightgreen;
+}
+#edi{
+  background-color: lightcoral;
+}
+
